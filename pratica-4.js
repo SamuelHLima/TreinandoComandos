@@ -4,4 +4,4 @@ function DistanciaAteLua(Milhas) {
     console.log(Distancia);
 }
 
-DistanciaAteLua(238900);
+DistanciaAteLua(238900)
