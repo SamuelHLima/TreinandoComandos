@@ -1,5 +1,5 @@
 
-function Maior(X,Y) {
+function Maior(X,Y,Z) {
     if (X>Y)
     console.log(X);
     if (Y>X)
